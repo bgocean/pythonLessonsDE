@@ -49,3 +49,6 @@ third_child = Children('Igoryok')
 one_child = Children()
 print(one_child.get_location())
 print(one_child.get_age())
+
+
+# 19.35
