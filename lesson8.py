@@ -1,6 +1,3 @@
-from mesonbuild.mlog import exception
-
-
 class Human:
     _name: str
     _location: str
