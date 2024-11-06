@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4c602a53-a957-4641-913c-698412687f70" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/lesson9.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/pythonLessonsDE.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/pythonLessonsDE.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Utils/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Utils/utils1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson8.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson8.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson9.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson9.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +39,7 @@
     "Python.lesson7.executor": "Run",
     "Python.lesson8.executor": "Run",
     "Python.lesson9.executor": "Run",
+    "Python.utils1.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "last_opened_file_path": "/home/resp/PycharmProjects/pythonLessonsDE",
