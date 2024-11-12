@@ -1,10 +1,8 @@
 import requests
 import json
 
-from samba.dcerpc.dcerpc import payload, response
-
 # Set up the URL
-url = 'https://robotfastapi.digitalberd.com/auth/login'
+url = 'http://45.135.233.242:8001/to_insert'
 
 # Set up the headers
 headers = {
@@ -14,14 +12,15 @@ headers = {
 
 # Set up the request body
 payload = {
-    'username': 'berd@digitalberd.com',
-    'password': 123
+    # 'username': 'berd@digitalberd.com',
+    # 'password': '123'
+    'symbol': '125'
 }
 
 json_payload = json.dumps(payload)
 
 # Make the POST request
-response = requests.post(url, headers=headers, data=json_payload)
+response = requests.post(url=url, params=payload)
 print(response)
 # Check the response
 if response.status_code == 200:
