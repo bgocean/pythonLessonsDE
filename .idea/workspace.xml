@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4c602a53-a957-4641-913c-698412687f70" name="Changes" comment="add lesson13">
+      <change afterPath="$PROJECT_DIR$/weather.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson13.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson13.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,25 +44,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.dz_csv.executor&quot;: &quot;Run&quot;,
-    &quot;Python.dz_pandas.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lesson11.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lesson11_csv.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lesson11_json.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lesson12.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lesson13.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lesson7.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lesson8.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lesson9.executor&quot;: &quot;Run&quot;,
-    &quot;Python.utils1.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/resp/PycharmProjects/pyDev&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.dz_csv.executor": "Run",
+    "Python.dz_pandas.executor": "Run",
+    "Python.lesson11.executor": "Run",
+    "Python.lesson11_csv.executor": "Run",
+    "Python.lesson11_json.executor": "Run",
+    "Python.lesson12.executor": "Run",
+    "Python.lesson13.executor": "Run",
+    "Python.lesson7.executor": "Run",
+    "Python.lesson8.executor": "Run",
+    "Python.lesson9.executor": "Run",
+    "Python.utils1.executor": "Run",
+    "Python.weather.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/home/resp/PycharmProjects/pyDev",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
